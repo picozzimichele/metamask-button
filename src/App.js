@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import ConnectButton from "./components/ConnectButton";
 import useStoreApi from "./storeAPI";
 import useWeb3 from "./Web3Client"
